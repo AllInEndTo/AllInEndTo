@@ -2,6 +2,8 @@
 
 ## Beginner junior front-end developer
 
+[![GIF](https://github.com/AllInEndTo/AllInEndTo/blob/main/assets/cpgif.gif)]
+
 ### My Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AllInEndTo&show_icons=true&theme=tokyonight)](https://github.com/AllInEndTo/github-readme-stats)
