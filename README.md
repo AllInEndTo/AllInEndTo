@@ -12,4 +12,8 @@
 ![Redux](https://img.shields.io/badge/-Redux-252770?style=for-the-badge&logo=Redux&logoColor=764abc)
 ![Node](https://img.shields.io/badge/-Node-252770?style=for-the-badge&logo=npm&logoColor=cb3837)
 
-Follow Me 252770
+### Follow Me
+
+[![Vkontakte](https://img.shields.io/badge/-VKontakte-bf3865?style=for-the-badge&logo=Vk&logoColor=4f7db3)](https://vk.com/dzhaxe)
+[![Instagram](https://img.shields.io/badge/-Instagram-bf3865?style=for-the-badge&logo=Instagram&logoColor=ffbf00)](https://www.instagram.com/dzhaxe)
+[![Telegram](https://img.shields.io/badge/-Telegram-bf3865?style=for-the-badge&logo=Telegram&logoColor=27a0d9)](https://t.me/dzhaxe)
