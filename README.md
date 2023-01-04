@@ -2,7 +2,7 @@
 
 ## Beginner junior front-end developer
 
-[![GIF](https://github.com/AllInEndTo/AllInEndTo/blob/main/assets/cpgif.gif)]
+![GIF](https://github.com/AllInEndTo/AllInEndTo/blob/main/assets/cpgif.gif)
 
 ### My Stats
 
