@@ -17,7 +17,9 @@
 ![CSS](https://img.shields.io/badge/-CSS-252770?style=for-the-badge&logo=CSS3&logoColor=006bc0)
 ![React](https://img.shields.io/badge/-React-252770?style=for-the-badge&logo=React&logoColor=09d8ff)
 ![Redux](https://img.shields.io/badge/-Redux-252770?style=for-the-badge&logo=Redux&logoColor=764abc)
-![Node](https://img.shields.io/badge/-Node-252770?style=for-the-badge&logo=npm&logoColor=cb3837)
+![Node](https://img.shields.io/badge/-Node-252770?style=for-the-badge&logo=npm&logoColor=71a962)
+![npm](https://img.shields.io/badge/-npm-252770?style=for-the-badge&logo=npm&logoColor=cb3837)
+![npx](https://img.shields.io/badge/-npx-252770?style=for-the-badge&logo=npm&logoColor=262729)
 
 ### Follow Me
 
