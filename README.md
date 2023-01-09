@@ -1,8 +1,8 @@
-[![Header](https://github.com/AllInEndTo/AllInEndTo/blob/main/assets/av.png)](https://vk.com/dzhaxe)
+<!--[![Header](https://github.com/AllInEndTo/AllInEndTo/blob/main/assets/av.png)](https://vk.com/dzhaxe) -->
 
 ## Beginner junior front-end developer
 
-![GIF](https://github.com/AllInEndTo/AllInEndTo/blob/main/assets/cpgif.gif)
+[![GIF](https://github.com/AllInEndTo/AllInEndTo/blob/main/assets/cpgif.gif)](https://vk.com/dzhaxe)
 
 ### My Stats
 
