@@ -2,7 +2,7 @@
 
 ## Beginner junior front-end developer
 
-[![GIF](https://github.com/AllInEndTo/AllInEndTo/blob/main/assets/cpgif.gif)](https://vk.com/dzhaxe)
+<!--[![GIF](https://github.com/AllInEndTo/AllInEndTo/blob/main/assets/cpgif.gif)](https://vk.com/dzhaxe) -->
 
 ![Profile badge](https://www.codewars.com/users/AllInEndTo/badges/large)
 
